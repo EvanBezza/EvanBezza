@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @EvanBezza
-- 👀 I’m interested in Game Development and Software Development.
-- 🌱 I’m currently learning the five main programing languages while developing games.
-- 💞️ I’m looking to collaborate on learneing more about Java, Java Script, HTML, CSS, PhP and C#.
-- 📫 Reach out to me via my gmail, evanfbez@gmail.com.
+- 👀 I’m interested in software developemtn and ERP Systems!
+- 🌱 I have completed an immersive Full-Stack web and sfotware devellopment bootcamp in which we focused on the MERN stack and earning top student  position!
+- 💞️ I’m looking to colaborate on more projects and sharing my knowledge with others!
+- 📫 Reach out to me via my gmail, evanfbez@gmail.com or visit my site www.evanbezza.com.
 
 <!---
 EvanBezza/EvanBezza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
